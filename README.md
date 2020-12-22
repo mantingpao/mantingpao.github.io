@@ -5,12 +5,15 @@
 <details>
   <summary><b>Conflux开发教程目录</b></summary> 
   
-
+  - Conflux开发工具的介绍
 
   |题目|简介|链接|
   |:-:|:-:|:-:|
-  |新项目如何高效启动？Conflux 代付机制了解一下|Conflux 的代付机制通过一种赞助机制来补贴用户对智能合约的使用，以"真金白银"的补贴来为网络效用建设行为和用户增长提供资助，帮助项目实现从 0 到 1 冷启动。|https://juejin.cn/post/6904212662629236749/|
   |Conflux开发者文档||https://developer.conflux-chain.org/|
+  |Conflux Studio 功能介绍||https://juejin.im/post/6862236479432622087|
+  |js-conflux-sdk/CHANGE_LOG.md||https://github.com/Conflux-Chain/js-conflux-sdk/blob/master/CHANGE_LOG.md|
+  |Conflux 内置合约功能介绍||https://juejin.im/post/6876330619798814728|
+  |Conflux的存储抵押机制||https://juejin.im/post/6855551378123653127|
   
   - Conflux和以太坊开发工具的区别
   
@@ -23,5 +26,16 @@
   |如何迁移以太坊 Dapp 到 Conflux 网络|一个以太坊的 Dapp 合约可以少量修改的快速部署到 Conflux 主链上。开发者只需要将 web3.js 交互部分改用js-conflux-sdk 实现即可。本文将会演示如何将一个以太坊 Dapp 迁移到 Conflux 网络上。|https://juejin.im/post/6876317079809556494|
   |Conflux与以太坊合约开发工具区别||https://juejin.im/post/6876310280733720583|
   
+  - Conflux开发工具的教程
+
+  |题目|简介|链接|
+  |:-:|:-:|:-:|
+  |新项目如何高效启动？Conflux 代付机制了解一下||https://juejin.cn/post/6904212662629236749/|
+  |如何在Conflux网络中使用js-conflux-sdk来构建一个简单的DApp||https://juejin.im/post/6845166890768138248|
+  |Conflux Truffle 使用完全指南||https://juejin.im/post/6862239117934067726|
+  |Conflux Studio 开发 DApp 教程||https://juejin.im/post/6862234416941858830|
+  |Conflux 智能合约开发体验(js-conflux-sdk@0.13.4)||https://juejin.im/post/6844904176720281607|
+  |区块链学习路径（初稿）||https://shimo.im/docs/T9THhvxTYQdX9GCk|
+  |北斗系列区块链课程||https://www.edu.confluxnetwork.org/%E8%AF%BE%E7%A8%8B?lang=en|
   
 </details>
