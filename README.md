@@ -4,7 +4,19 @@
 
 <details>
   <summary><b>Conflux开发教程目录</b></summary> 
-
+  
+  
+  <style>
+    table th:first-of-type{
+      width: 30%;
+    }
+    table th:nth-of-type(2){
+      width: 40%;
+    }
+    table th:nth-of-type(3){
+      width: 40%;
+    }
+  </style>
 
   |题目|简介|链接|
   |:-:|:-:|:-:|
@@ -14,18 +26,6 @@
   - Conflux和以太坊开发工具的区别
   
     
-  <style>
-    table th:first-of-type{
-      width: 10cm;
-    }
-    table th:nth-of-type(2){
-      width: 150pt;
-    }
-    table th:nth-of-type(3){
-      width: 8em;
-    }
-  </style>
-  
   |题目|简介|链接|
   |:-:|:-:|:-:|
   |Conflux的 CVM 和 EVM 虚拟机层的主要区别|Conflux 完全继承了 EVM 的虚拟机，所以 EVM 的代码可以直接在 Conflux 上跑。但是，由于 Conflux 采用了不同的共识机制，并且引入了存储押金机制，所以有一些细节上的不一样。|https://juejin.im/post/6854573220268343309|
