@@ -128,11 +128,37 @@
 <br>
 <h3 id="3">Conflux生态</h3>
 
-  |题目|链接|
-  |:-:|:-:|
-  |Conflux生态开源项目进度更新表|https://shimo.im/sheets/rppy88JVJKPHj9tx/MODOC|
-  |Conflux生态项目测试、验收公示|https://shimo.im/sheets/xhwhyWpqHhHhq69q/MODOC|
-  |北斗系列区块链课程|https://www.edu.confluxnetwork.org/%E8%AF%BE%E7%A8%8B?lang=en|
+  |题目|简介|链接|
+  |:-:|:-:|:-:|
+  |Conflux生态开源项目进度更新表||https://shimo.im/sheets/rppy88JVJKPHj9tx/MODOC|
+  |Conflux生态项目测试、验收公示||https://shimo.im/sheets/xhwhyWpqHhHhq69q/MODOC|
+  |北斗系列区块链课程||https://www.edu.confluxnetwork.org/%E8%AF%BE%E7%A8%8B?lang=en|
   
 <br>
-<h3 id="4">Conflux生态</h3>
+<h3 id="4">Conflux研究院（组）</h3>
+  |题目|简介|I微信链接|掘金链接|
+  |:-:|:-:|:-:|:-:|
+  |Conflux 研究院 | 《Conflux 协议规范》（黄皮书）导读||https://mp.weixin.qq.com/s/h5NQ2PmHsQSqzm0FLqNgvQ|https://juejin.cn/post/6896346384018964493|
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
+  |||||
