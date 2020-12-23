@@ -8,7 +8,7 @@
 
   |题目|简介|链接|
   |:-:|:-:|:-:|
-  |Conflux开发者文档||<a href="http://write.blog.csdn.net/postlist" target="_blank">http://write.blog.csdn.net/postlist</a>|
+  |Conflux开发者文档||https://developer.conflux-chain.org/|
   |Conflux Studio 功能介绍||https://juejin.im/post/6862236479432622087|
   |js-conflux-sdk/CHANGE_LOG.md||https://github.com/Conflux-Chain/js-conflux-sdk/blob/master/CHANGE_LOG.md|
   |Conflux 内置合约功能介绍||https://juejin.im/post/6876330619798814728|
