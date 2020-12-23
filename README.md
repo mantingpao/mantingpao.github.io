@@ -2,14 +2,13 @@
 
 <br>
 
-<details>
-  <summary><b>Conflux开发教程目录</b></summary> 
-  
+<h3 id="1">Conflux开发教程目录</h3>
+
   - Conflux开发工具的介绍
 
   |题目|简介|链接|
   |:-:|:-:|:-:|
-  |Conflux开发者文档||https://developer.conflux-chain.org/|
+  |Conflux开发者文档||<a href="https://developer.conflux-chain.org/" target="_blank">https://developer.conflux-chain.org/</a>|
   |Conflux Studio 功能介绍||https://juejin.im/post/6862236479432622087|
   |js-conflux-sdk/CHANGE_LOG.md||https://github.com/Conflux-Chain/js-conflux-sdk/blob/master/CHANGE_LOG.md|
   |Conflux 内置合约功能介绍||https://juejin.im/post/6876330619798814728|
@@ -38,4 +37,96 @@
   |区块链学习路径（初稿）||https://shimo.im/docs/T9THhvxTYQdX9GCk|
   |北斗系列区块链课程||https://www.edu.confluxnetwork.org/%E8%AF%BE%E7%A8%8B?lang=en|
   
-</details>
+<br>
+<h3 id="2">Conflux工具</h3>
+   
+  <table border="1" width="400">
+    <tr>
+      <td><b>题目</b></td>
+      <td><b>链接</b></td>
+    </tr> 
+    <tr>
+      <td>新项目如何高效启动？Conflux 代付机制了解一下</td>
+      <td>https://juejin.cn/post/6904212662629236749/</td>
+    </tr> 
+    <tr>
+      <td>Conflux对接Q&A</td>
+      <td>https://shimo.im/docs/KlkKVPllv9T2bZqd</td>
+    </tr> 
+    <tr> 
+      <td>Conflux安全分析(论文)</td>
+      <td>https://arxiv.org/abs/2006.01072</td>
+    </tr> 
+    <tr> 
+      <td>Conflux系统实现(论文)</td>
+      <td>https://www.usenix.org/conference/atc20/presentation/li-chenxing</td>
+    </tr> 
+    <tr> 
+      <td>Conflux协议规范（黄皮书）</td>
+      <td>https://www.confluxnetwork.org/files/Conflux_Protocol_Specification.pdf</td>
+    </tr> 
+    <tr> 
+      <td>Conflux 协议规范（黄皮书）导读</td>
+      <td>https://juejin.im/post/6896346384018964493/</td>
+    </tr> 
+    <tr> 
+      <td>Conflux经济白皮书</td>
+      <td>http://confluxnetwork.org/files/Conflux_Economic_Paper.pdf</td>
+    </tr> 
+    <tr> 
+      <td>Conflux DeFi Ecosystem</td>
+      <td>https://defi.confluxnetwork.org/</td>
+    </tr> 
+    <tr> 
+      <td>Conflux Shuttleflow文档</td>
+      <td>https://conflux-dev.github.io/conflux-dex-docs/shuttleflow/</td>
+    </tr> 
+    <tr> 
+      <td>Conflux Matchflow文档(DEX API)</td>
+      <td>https://conflux-dev.github.io/conflux-dex-docs/matchflow/</td>
+    </tr> 
+    <tr> 
+      <td>Conflux插件钱包ConfluxPortal安装说明教程</td>
+      <td>https://juejin.im/post/6844904132948525070</td>
+    </tr> 
+    <tr> 
+      <td>使用ShuttleFlow实现ETH和cETH之间的转换</td>
+      <td>https://juejin.im/post/6886458514097733639</td>
+    </tr> 
+    <tr> 
+      <td>Conflux GPU 挖矿教程文档（v1.1.0）</td>
+      <td>https://juejin.im/post/6888565061200773127</td>
+    </tr> 
+    <tr> 
+      <td>Conflux网络多矿机挖矿教程</td>
+      <td>https://juejin.im/post/6888570409323593735</td>
+    </tr> 
+    <tr> 
+      <td>如何成为Conflux Trustnode</td>
+      <td>https://juejin.im/post/6844904185989709831</td>
+    </tr> 
+    <tr> 
+      <td>Conflux网络中"奇奇怪怪“的Node</td>
+      <td>https://juejin.im/post/6854573217655291917</td>
+    </tr> 
+    <tr> 
+      <td>如何在Moondex上交易CFX</td>
+      <td>https://juejin.im/post/6891963199399133198</td>
+    </tr> 
+    <tr>
+      <td>区块链学习路径（初稿）</td>
+      <td>https://shimo.im/docs/T9THhvxTYQdX9GCk</td>
+    </tr>
+  </table>
+
+<br>
+<h3 id="3">Conflux生态</h3>
+
+  |题目|链接|
+  |:-:|:-:|
+  |Conflux生态开源项目进度更新表|https://shimo.im/sheets/rppy88JVJKPHj9tx/MODOC|
+  |Conflux生态项目测试、验收公示|https://shimo.im/sheets/xhwhyWpqHhHhq69q/MODOC|
+  |北斗系列区块链课程|https://www.edu.confluxnetwork.org/%E8%AF%BE%E7%A8%8B?lang=en|
+  
+<br>
+<h3 id="4">Conflux生态</h3>
